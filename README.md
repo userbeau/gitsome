@@ -10,7 +10,7 @@
 
 **we can _combine_ them**
 
-*list1
+*list 1
 *list 2
   *list 2a
   *list 2b
