@@ -10,10 +10,10 @@
 
 **we can _combine_ them**
 
-*list 1
-*list 2
-  *list 2a
-  *list 2b
+* list 1
+* list 2
+  * list 2a
+  * list 2b
 
 1. Item 1
 1. Item 2
